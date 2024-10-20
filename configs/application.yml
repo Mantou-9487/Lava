@@ -1,6 +1,6 @@
 lavalink:
   plugins:
-  - dependency: dev.lavalink.youtube:youtube-plugin:0.0.1
+  - dependency: dev.lavalink.youtube:youtube-plugin:0.0.2
     snapshot: false
   server:
     bufferDurationMs: 400
